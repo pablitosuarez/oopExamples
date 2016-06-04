@@ -4,8 +4,7 @@
 .mtj.tmp/
 
 # Eclipse files
-.classpath
-.project
+
 
 # Package Files #
 *.jar
