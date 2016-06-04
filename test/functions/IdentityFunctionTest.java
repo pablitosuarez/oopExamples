@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import functions.unary.Identity;
 
-public class UnaryFunctionTest {
+public class IdentityFunctionTest {
 
 	@Test
 	public void testPositiveValue() {
