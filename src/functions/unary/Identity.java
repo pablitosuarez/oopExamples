@@ -1,10 +1,12 @@
 package functions.unary;
 
-public class Identity {
+import functions.interfaces.OOFunction;
 
-	public double evaluateWith(double value) {
+public class Identity implements OOFunction {
+
+	public float evaluateWith(float aValue) {
 		
-		return value;
+		return aValue;
 	}
 	
 	

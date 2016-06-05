@@ -1,6 +1,8 @@
 package functions.unary;
 
-public class Constant {
+import functions.interfaces.OOFunction;
+
+public class Constant implements OOFunction {
 	
 	private float value;
 	
